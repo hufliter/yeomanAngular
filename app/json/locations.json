@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Somewhere",
+    "street_address":"555 Ho Chi Minh",
+    "city":"HCMC",
+    "state":"VN",
+    "zip":"084",
+    "phone":"555-124-2222"
+  },
+  {
+    "id": 2,
+    "name": "Heaven",
+    "street_address":"123 Da Nang",
+    "city":"DN",
+    "state":"VN",
+    "zip":"084",
+    "phone":"123-321-3333"
+  },
+  {
+    "id": 3,
+    "name": "Hell",
+    "street_address":"Ha Noi",
+    "city":"HN",
+    "state":"VN",
+    "zip":"084",
+    "phone":"661-116-6666"
+  }
+]
